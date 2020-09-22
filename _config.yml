@@ -17,10 +17,10 @@ urls:
       url : /shop
     - text: Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+#    - text: Styleguide
+#      url: /styleguide
+#    - text: Get Started
+#     url: /get-started
 
 # Edit these details
 
@@ -98,8 +98,8 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
+show_author_work_experiences: false
+show_author_education_details: false
 show_author_project_details: true
 
 # pagination of posts
