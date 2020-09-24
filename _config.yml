@@ -1,5 +1,5 @@
 title: Paul Jeanquart
-subtitle: A site about me and my projects
+subtitle: A site about my projects.
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -7,26 +7,16 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.githu
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
-      url: /about
     - text: Blog
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact Me
-      url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
 
 # Edit these details
 
 author_logo: profile.png
 author: Paul Jeanquart
-author_bio: Software Developer and Team Lead. Working with .net, node, and other tech to build and maintain enterprise applications.
+author_bio: Software Developer, Team Lead, & Mentor. Working with .net, node, and other tech to build and maintain enterprise applications.
 author_email: "pauljeanquart at gmail dot com"
 author_location: Oklahoma
 author_website_url: "https://pauljeanquart.github.io"
@@ -59,12 +49,12 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: false
+                visibility: true
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: false
+                visibility: true
 
 # social links
 # twitter_username: johndoe
@@ -98,8 +88,8 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
+show_author_work_experiences: false
+show_author_education_details: false
 show_author_project_details: true
 
 # pagination of posts
