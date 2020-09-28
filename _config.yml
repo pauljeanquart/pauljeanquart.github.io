@@ -16,7 +16,7 @@ urls:
 
 author_logo: profile.png
 author: Paul Jeanquart
-author_bio: Software Developer, Team Lead, & Mentor. Working with .net, node, and other tech to build and maintain enterprise applications.
+#author_bio: Software Developer, Team Lead, & Mentor. Working with .net, node, and other tech to build and maintain enterprise applications.
 author_email: "pauljeanquart at gmail dot com"
 author_location: Oklahoma
 author_website_url: "https://pauljeanquart.github.io"
